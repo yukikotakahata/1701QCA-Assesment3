@@ -56,7 +56,16 @@ This project is related to mine because lighten up the ball is another feature. 
 
 
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+
+1.How to soldering
+https://www.instructables.com/id/How-to-solder/
+I was considering to add vibration,  touch sensor and LEDs from Kmart. In order to attach these to my microbit, I tried to soldering.. however it failed.
+
+2. sewable ploject
+https://learn.adafruit.com/flora-rgb-smart-pixels
+I was thinking to attach this part and sewing them on around the ball.
+
+
 
 ## Conceptual development ##
 
