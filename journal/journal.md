@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Yuki Takahata S5186392 *
+# 1701QCA Final project journal: Yuki Takahata S5186392 #
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -216,11 +216,33 @@ I n order to solve the pending "switch" problem. I tested two switch. unfortunat
 confirm the Kmart LED connection. I tried the digital 2 pin to make the time setting.
 
 6.![Image](v1.png)(v2.png)(v3.png)(v4.png)
-Still made a try to attach the vibration device. It was really fun movement. so I really wanted to put as a feature, I tried the connection via terminal box. but it was not work. I soldered them first time in my life. But it seemd i had to solder on small board. the line was disconected in just 10 seconds later( This was because the vibrator moved violently.
+Still made a try to attach the vibration device. It was really fun movement. so I really wanted to put as a feature, I tried the connection via terminal box. but it was not work. I soldered them first time in my life. But it seemd i had to solder on small board. the line was disconected in just 10 seconds later( This was because the vibrator moved too violently.
 
-7.![Image](v1.png)
+7.![Image](case1.png)(case2.png)
+The microbit component were finalized, then it put on to the card board with velcro. Stored in ziplock bag. 
+
+8.![Image](sew1.png)![Image](sew2.png)![Image](sew3.png)![Image](sew4.png)
+At last, I reached the sewing stage.Opened up the cover of trial 4, then made the paper pattern. 
+
+9.![Image](bearface.png)![Image](illust.png)![Image](eyeparts.png)
+Before making the bear face, I researched around the pattern of bear plushes. to find out the best design for the Ball figure. Then made some sketches.
+
+10.![Image](handle.png)(nose.png)
+Made years and nose parts.
+
+11.![Image](iron1.png)(iron2.png)(iron4.png)(eyetest.png)
+Printed the eyeparts on Tshirt printing paper, and Ironing on the felt. sadly, the color was faded out.. then painted and detouched  with parmanet marker.. Then put them on the bear to check out which one is the best and looked adorable. I asked my family member their favorite. and decided to go with this simple one.
+
+12![Image](velcro.png)(holeLED.png)(LED.png)(LEDinBAG.png)(insertLED.png)
+Final touch around the microbit case. Atttach the velcro on the case pocket, Tied up LED .
+The LED went underneath the bear cover then  inserted in the see-through eye-pouch.
+
+13![Image](handle1.png)
+I check the handle position.. It needed to moved forward.. so I sew them again..
 
 
+14![Image](hair.png)(eyeon.png)
+Atacched the hair and eyes on! DONE!!!
 
 
 ## Final code ##
