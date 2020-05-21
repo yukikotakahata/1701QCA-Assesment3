@@ -194,11 +194,37 @@ Then the following is the final code for this prototype. </br>
 ![Image](final1.png) 
 ![Image](final2.png) 
 
+###The process to Final Prototype###
+1.![Image](newparts.png)
+Following the Trial4's outcome, I decided to make the microbit components more small and lighter.
+I bought the board with cell battery case ($15) and Monk makes spearker(it work as amplifier)($17). I still wanted to make stereo speaker at this stage .<br>
+![Image](speakerconnect.png) 
+this is the final setting to the microbit with Insulating tape.
+
+
+2.![Image](speakertrial.png)
+Then, checking how it works. I was satisfied with the volume and sound quality of this speaker.
+battery board worked really good as well..<br>
+
+3.![Image](2speakert.png)
+Checking how 2 speaker works.Again. it was same volume and sound quality when it connect to just one speaker. Moreover, it was not stable connection. So I gave up the stereo speaker system..<br>
+
+4.![Image](switch_T.png)(switch2_T.png)
+I n order to solve the pending "switch" problem. I tested two switch. unfortunately, i could not achieve the  coding, I guess. It was on while pushing the switch, and its off when release. I needed the switch with just one action. Luckily the cell board was equipped with small slide switch. So I decided to go with that..<br>
+
+5.![Image](led1.png)
+confirm the Kmart LED connection. I tried the digital 2 pin to make the time setting.
+
+6.![Image](v1.png)(v2.png)(v3.png)(v4.png)
+Still made a try to attach the vibration device. It was really fun movement. so I really wanted to put as a feature, I tried the connection via terminal box. but it was not work. I soldered them first time in my life. But it seemd i had to solder on small board. the line was disconected in just 10 seconds later( This was because the vibrator moved violently.
+
+7.![Image](v1.png)
+
 
 
 
 ## Final code ##
-
+ 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
 ## Design process discussion ##
