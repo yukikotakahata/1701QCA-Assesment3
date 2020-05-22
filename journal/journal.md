@@ -283,18 +283,17 @@ I did four trials so far. Throughout the trials, I always find the improvement p
 
 ## Reflection ##
 
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
--Coding resources in the web resources were useful to find out how to  the valuables and the swicthes. Soldering skill is very interesting to me because it will bring enoumous posibility to my project. But I need more time to learn it.
+Coding resources in the web resources were useful to find out how to  the valuables and the swicthes. Soldering skill is very interesting to me because it will bring enoumous posibility to my project. But I need more time to learn it.
 
 
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
--I think my project is novel in many ways.  there is no kind music instrument like this to learn the tones in fun ways.  it is epoch-making that you can get the upper and lower pitches according to your body position. Also, as a gym ball, it encourages  cheers the exercise by music. Unfortunately Microbit can not store the musicdata, but it is great if I could put the data in.
+I think my project is novel in many ways.  there is no kind music instrument like this to learn the tones in fun ways.  it is epoch-making that you can get the upper and lower pitches according to your body position. Also, as a gym ball, it encourages  cheers the exercise by music. Unfortunately Microbit can not store the musicdata, but it is great if I could put the data in.
 Also, I have not seen the gym ball like with adorable feature.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
 
--For futute, the gym ball movement can link to the big screen or TV etc, Buddy B can travel anywhere in Google street Map, or in Facetime etc. Also the system will allow to connect the other Buddy B on the network. So they can have a exercise party anywhere in the world!
+
+For futute, the gym ball movement can link to the big screen or TV etc, Buddy B can travel anywhere in Google street Map, or in Facetime etc. Also the system will allow to connect the other Buddy B on the network. So they can have a exercise party anywhere in the world!
