@@ -192,61 +192,78 @@ Being struggle with making the switch on/off with code, I asked advice during th
 
 Then the following is the final code for this prototype. </br>
 ![Image](final1.png) 
-![Image](final2.png) 
+![Image](final2.png) <br>
 
-###The process to Final Prototype###
-1.![Image](newparts.png)
+
+### FINAL PROTYPE PRODUCTION ###
+<br>
+1.
+![Image](newparts.png)
 Following the Trial4's outcome, I decided to make the microbit components more small and lighter.
 I bought the board with cell battery case ($15) and Monk makes spearker(it work as amplifier)($17). I still wanted to make stereo speaker at this stage .<br>
 ![Image](speakerconnect.png) 
-this is the final setting to the microbit with Insulating tape.
+this is the final setting to the microbit with Insulating tape.<br>
 
 
-2.![Image](speakertrial.png)
+2
+![Image](speakertrial.png)
 Then, checking how it works. I was satisfied with the volume and sound quality of this speaker.
 battery board worked really good as well..<br>
 
-3.![Image](2speakert.png)
+3
+![Image](2speakert.png)
 Checking how 2 speaker works.Again. it was same volume and sound quality when it connect to just one speaker. Moreover, it was not stable connection. So I gave up the stereo speaker system..<br>
 
-4.![Image](switch_T.png)(switch2_T.png)
+4
+![Image](switch_T.png)(switch2_T.png)
 I n order to solve the pending "switch" problem. I tested two switch. unfortunately, i could not achieve the  coding, I guess. It was on while pushing the switch, and its off when release. I needed the switch with just one action. Luckily the cell board was equipped with small slide switch. So I decided to go with that..<br>
 
-5.![Image](led1.png)
+5
+![Image](led1.png)
 confirm the Kmart LED connection. I tried the digital 2 pin to make the time setting.
 
-6.![Image](v1.png)(v2.png)(v3.png)(v4.png)
-Still made a try to attach the vibration device. It was really fun movement. so I really wanted to put as a feature, I tried the connection via terminal box. but it was not work. I soldered them first time in my life. But it seemd i had to solder on small board. the line was disconected in just 10 seconds later( This was because the vibrator moved too violently.
+6
+![Image](v1.png)(v2.png)(v3.png)(v4.png)
+Still made a try to attach the vibration device. It was really fun movement. so I really wanted to put as a feature, I tried the connection via terminal box. but it was not work. I soldered them first time in my life. But it seemd i had to solder on small board. the line was disconected in just 10 seconds later( This was because the vibrator moved too violently.<br>
 
-7.![Image](case1.png)(case2.png)
-The microbit component were finalized, then it put on to the card board with velcro. Stored in ziplock bag. 
+7
+![Image](case1.png)(case2.png)
+The microbit component were finalized, then it put on to the card board with velcro. Stored in ziplock bag. <br>
 
-8.![Image](sew1.png)![Image](sew2.png)![Image](sew3.png)![Image](sew4.png)
-At last, I reached the sewing stage.Opened up the cover of trial 4, then made the paper pattern. 
+8
+![Image](sew1.png)![Image](sew2.png)![Image](sew3.png)![Image](sew4.png)
+At last, I reached the sewing stage.Opened up the cover of trial 4, then made the paper pattern. <br>
 
-9.![Image](bearface.png)![Image](illust.png)![Image](eyeparts.png)
-Before making the bear face, I researched around the pattern of bear plushes. to find out the best design for the Ball figure. Then made some sketches.
+9.
+![Image](bearface.png)![Image](illust.png)![Image](eyeparts.png)
+Before making the bear face, I researched around the pattern of bear plushes. to find out the best design for the Ball figure. Then made some sketches.<br>
 
-10.![Image](handle.png)(nose.png)
-Made years and nose parts.
+10.
+![Image](handle.png)(nose.png)
+Made years and nose parts.<br>
 
-11.![Image](iron1.png)(iron2.png)(iron4.png)(eyetest.png)
-Printed the eyeparts on Tshirt printing paper, and Ironing on the felt. sadly, the color was faded out.. then painted and detouched  with parmanet marker.. Then put them on the bear to check out which one is the best and looked adorable. I asked my family member their favorite. and decided to go with this simple one.
+11.
+![Image](iron1.png)(iron2.png)(iron4.png)(eyetest.png)
+Printed the eyeparts on Tshirt printing paper, and Ironing on the felt. sadly, the color was faded out.. then painted and detouched  with parmanet marker.. Then put them on the bear to check out which one is the best and looked adorable. I asked my family member their favorite. and decided to go with this simple one.<br>
 
-12![Image](velcro.png)(holeLED.png)(LED.png)(LEDinBAG.png)(insertLED.png)
+12.
+![Image](velcro.png)![Image](holeLED.png)![Image](LED.png)![Image](LEDinBAG.png)![Image](insertLED.png)
 Final touch around the microbit case. Atttach the velcro on the case pocket, Tied up LED .
-The LED went underneath the bear cover then  inserted in the see-through eye-pouch.
+The LED went underneath the bear cover then  inserted in the see-through eye-pouch.<br>
 
-13![Image](handle1.png)
-I check the handle position.. It needed to moved forward.. so I sew them again..
+13.
+![Image](handle1.png)
+I check the handle position.. It needed to moved forward.. so I sew them again..<br>
 
 
-14![Image](hair.png)(eyeon.png)
-Atacched the hair and eyes on! DONE!!!
+14.
+![Image](hair.png)![Image](eyeon.png)
+Atacched the hair and eyes on! DONE!!!<br>
 
 
 ## Final code ##
  
+ ![Image](code1.png) ![Image](code2.png)
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
 ## Design process discussion ##
@@ -261,7 +278,7 @@ DEVELOP
 Once I decided on the product., I conducted researching material, coding, electrical circuit development, etc. The most disappointing thing is that I have minimal knowledge of electronics and coding. I wish I could have more time to learn these basics. 
 
 DELIVER
-I did four trials so far. Throughout the trials, I always find the improvement points. The product is brushed up little by little.  I have been back and forth, endlessly  "Develop"  and "Deliver" stages.*
+I did four trials so far. Throughout the trials, I always find the improvement points. The product is brushed up little by little.  I have been back and forth, endlessly  "Develop"  and "Deliver" stages.
 
 
 ## Reflection ##
@@ -270,6 +287,14 @@ I did four trials so far. Throughout the trials, I always find the improvement p
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
+-Coding resources in the web resources were useful to find out how to  the valuables and the swicthes. Soldering skill is very interesting to me because it will bring enoumous posibility to my project. But I need more time to learn it.
+
+
 What parts of your project do you feel are novel? This is IMPORTANT to help justify a key component of the assessment rubric.
 
+-I think my project is novel in many ways.  there is no kind music instrument like this to learn the tones in fun ways.  it is epoch-making that you can get the upper and lower pitches according to your body position. Also, as a gym ball, it encourages  cheers the exercise by music. Unfortunately Microbit can not store the musicdata, but it is great if I could put the data in.
+Also, I have not seen the gym ball like with adorable feature.
+
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
+-For futute, the gym ball movement can link to the big screen or TV etc, Buddy B can travel anywhere in Google street Map, or in Facetime etc. Also the system will allow to connect the other Buddy B on the network. So they can have a exercise party anywhere in the world!
