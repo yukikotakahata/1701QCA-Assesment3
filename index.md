@@ -19,11 +19,11 @@ This gym ball bear "Buddy B" can play music tone according to the exercise movem
 
 <!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
 
-![Image](EXE1.png)(cud1.png)(EXE3.png)(jump.png)(mainled.png)
+![Image](EXE1.png)![Image](cud1.png)![Image](EXE3.png)![Image](jump.png)![Image](mainled.png)
 
 <!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
 
-[![Image](video-2.png)](https://youtu.be/zD-YsTd2cig)
+[![Image] link to youtube (video-2.png)](https://youtu.be/zD-YsTd2cig)
 
 ### Journal ###
 
